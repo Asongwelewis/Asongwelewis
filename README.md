@@ -1,137 +1,126 @@
-<div align="center">
-
 # Asongwe 🔥
 
-### Aspiring Software Engineer • React • Flutter • Node • AI
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F58220&center=true&vCenter=true&width=600&lines=Software+Engineering+%40+ICT+University+Yaound%C3%A9;Aspiring+Full-Stack+%26+Mobile+Developer;React+%E2%80%A2+React+Native+%E2%80%A2+Flutter+%E2%80%A2+Node)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
+### Software Engineer • React • Python • Node.js • Distributed Systems • AI
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Asongwelewis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=450&title_color=F58220&icon_color=F58220" />
-
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Asongwelewis&theme=tokyonight&hide_border=true&ring=F58220&fire=F58220&currStreakLabel=F58220&sideLabels=F58220&dates=8B949E" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F58220&center=true&vCenter=true&width=700&lines=Software+Engineering+%40+ICT+University+Yaound%C3%A9;Building+practical+systems+with+real-world+impact;Distributed+systems+%2B+AI+%2B+cloud-native+applications)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I'm an aspiring software engineer studying at **ICT University, Yaoundé** — passionate about building practical, real-world software that solves real problems.
+I'm a software engineering student at **ICT University, Yaoundé**, building practical systems across web, backend, AI, and distributed systems.
 
-I work across the stack: React frontends, React Native & Flutter for mobile, and Node.js + Python on the backend, paired with Firebase, Supabase, and PostgreSQL.
-
-- 🎓 Currently studying **Software Architecture**, **Software Verification & Validation**, **Advanced Web Development**, **Android Application Development**, **Introduction to Data Science** ➕ *more*
-- 🌱 Always learning — leveling up one project at a time
-- 🤝 Open to **collaborations, internships, and freelance work**
-- ⚡ Fun fact: I love mixing AI with real-world African problems — from energy reliability to peer learning
+- Studying software engineering and architecture-related courses
+- Interested in real-world systems, AI, cloud, and distributed computing
+- Open to collaborations, internships, and freelance work
+- Focused on projects that solve practical problems
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<div align="center">
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- React
 
-**Core & Frontend**
+**Backend**
+- Node.js
+- Python
 
-[![Core](https://skillicons.dev/icons?i=html,css,js,react&perline=8)](https://skillicons.dev)
+**Databases / Platforms**
+- Supabase
+- Firebase
+- PostgreSQL
 
-**Backend & Databases**
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,python,supabase,firebase,postgres&perline=8)](https://skillicons.dev)
-
-**Mobile**
-
-[![Mobile](https://skillicons.dev/icons?i=react,flutter,dart&perline=8)](https://skillicons.dev)
-
-**Cloud & Tools**
-
-[![Cloud](https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,postman&perline=8)](https://skillicons.dev)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 [Skill-Bridge](https://github.com/Asongwelewis/Skill-Bridge)
-A peer-to-peer learning platform where users post skills they want to teach or learn. The system auto-matches them, hosts a live WebRTC video session, and generates an AI summary at the end.
-
-**Stack:** `JavaScript` · `WebRTC` · `Node.js` · AI APIs
-**Highlights:** Real-time matchmaking · Live video calls · AI-generated session recaps
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ [AI-Driven Power Outage Prediction](https://github.com/Asongwelewis/AI-Driven-Power-Outage-Prediction-System)
-A data science project that predicts power outages in Cameroon by aggregating heterogeneous signals — weather, grid stress, historical patterns — into a single predictive model.
-
-**Stack:** `Python` · `JavaScript` · Data Science · ML
-**Highlights:** Multi-source signal aggregation · Cameroon-focused dataset · Predictive modeling
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 💻 [Virtual Machine & Cloud Simulation System](https://github.com/Asongwelewis/Virtual-Machine-and-CLoud-simulation-system-)
-A terminal-based interface system that simulates file transfers (upload / download) between virtual machines. Built with gRPC for service-to-service communication, plus multi-threading and multi-processing for performance.
-
-**Stack:** `Python` · `gRPC` · Multi-threading · Multi-processing
-**Highlights:** Cloud-style file transfer simulation · gRPC service architecture · Concurrent execution model
-
-</td>
-</tr>
-</table>
+**Tools**
+- Git
+- GitHub
+- GitHub Actions
+- Docker
+- VS Code
+- Postman
 
 ---
 
-## 📊 Top Languages
+## Featured Projects
 
-<div align="center">
+### 1) Skill-Bridge
+**Repository:** [Asongwelewis/Skill-Bridge](https://github.com/Asongwelewis/Skill-Bridge)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asongwelewis&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=F58220" />
+A cloud-native peer-to-peer learning platform where users list skills they can teach and learn, get matched with complementary peers, meet in live WebRTC sessions, and complete AI-generated quizzes after sessions.
 
-<br/>
-<br/>
+**Verified stack from the repository:**
+- React / Vite
+- Node.js / Express
+- Supabase
+- PostgreSQL
+- Redis
+- Kafka
+- Elasticsearch
+- Groq API
+- Llama 3.3 70B
+- Kubernetes / K3s
+- Traefik
+- Docker
+- Jenkins
+- Terraform
+- Ansible
+- Prometheus
+- Grafana
+- WebRTC
 
-<img src="https://github-profile-trophy.vercel.app/?username=Asongwelewis&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies" />
+### 2) AI-Driven Power Outage Prediction System
+**Repository:** [Asongwelewis/AI-Driven-Power-Outage-Prediction-System](https://github.com/Asongwelewis/AI-Driven-Power-Outage-Prediction-System)
 
-</div>
+A power-outage prediction and monitoring system for Cameroon that aggregates outage-related signals, uses Gemini-based classification and risk scoring, and surfaces results in a dashboard with failover-oriented monitoring.
+
+**Verified stack from the repository:**
+- Python
+- JavaScript
+- FastAPI
+- Node.js
+- Express
+- Google Gemini / `google-genai`
+- Supabase / PostgreSQL
+- Cloudflare R2
+- Socket.IO
+- Requests
+- Uvicorn
+- Pytest
+
+### 3) Virtual-Machine-and-CLoud-simulation-system-
+**Repository:** [Asongwelewis/Virtual-Machine-and-CLoud-simulation-system-](https://github.com/Asongwelewis/Virtual-Machine-and-CLoud-simulation-system-)
+
+A Python-based distributed VM simulation with a central controller and three VM nodes for file upload/download, replication, heartbeat monitoring, and basic failover handling.
+
+**Verified stack from the repository:**
+- Python 3.7+
+- TCP sockets
+- JSON messaging
+- threading
+- colorama
+- Windows batch scripts
 
 ---
 
-## 🌍 Currently
+## What I’m currently building
 
-- 🔭 Shipping **Skill-Bridge** to a real user base
-- ⚡ Iterating on the **Power Outage Prediction** model with more Cameroonian data
-- 🧠 Exploring **gRPC**, **distributed systems**, and **AI-driven inference**
-- 💡 Tinkering with local AI agents (**Ollama + n8n**) for productivity automation
+- Distributed systems and cloud simulation projects
+- AI-assisted learning and prediction systems
+- Practical applications with real operational value
 
 ---
 
-## 🤝 Let's Connect
+## Contact
 
-<div align="center">
-
-<a href="mailto:fonasongwelewis@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-<a href="https://github.com/Asongwelewis"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-
-<br/>
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Asongwelewis&color=F58220&style=flat-square&label=Profile+Views)
-
-</div>
+- GitHub: [@Asongwelewis](https://github.com/Asongwelewis)
+- Email: fonasongwelewis@gmail.com
 
 <div align="center">
 
