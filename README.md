@@ -1,115 +1,75 @@
-<div align="center">
+# Hi there, I'm Asongwe Lewis 👋
 
-# Asongwe Lewis Fon
+<p align="left">
+  Full-Stack Software Engineer | AI & Data Enthusiast | Building practical systems with real-world impact.
+</p>
 
-### Software Engineer • React • Python • Node.js • Distributed Systems • AI
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F58220&center=true&vCenter=true&width=720&lines=Building+practical+software+with+real-world+impact;Distributed+systems+%2B+AI+%2B+cloud-native+applications;Software+Engineering+%40+ICT+University+Yaound%C3%A9)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Asongwelewis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Asongwelewis&theme=tokyonight&hide_border=true&ring=F58220&fire=F58220&currStreakLabel=F58220&sideLabels=F58220" />
-
-</div>
-
----
-
-## 🧠 About Me
-
-I’m a software engineering student at **ICT University, Yaoundé**, focused on building practical, real-world systems across web, backend, AI, and distributed computing.
-
-- 🎓 Studying software engineering and architecture-related courses
-- 🌱 Always learning and improving through projects
-- 🤝 Open to collaborations, internships, and freelance work
-- ⚡ Interested in software that solves real problems
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Core & Frontend**
-
-[![Core](https://skillicons.dev/icons?i=html,css,js,react&perline=8)](https://skillicons.dev)
-
-**Backend & Databases**
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,python,supabase,firebase,postgres&perline=8)](https://skillicons.dev)
-
-**Cloud & Tools**
-
-[![Cloud](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,vscode,postman,terraform,ansible&perline=8)](https://skillicons.dev)
-
-</div>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1F6FEB&width=800&lines=I+build+AI-powered+and+full-stack+products;Data-driven+systems+for+real-world+problems;Always+learning%2C+shipping%2C+and+improving" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 1) AI-Driven Power Outage Prediction System
+**Repository:** [Asongwelewis/AI-Driven-Power-Outage-Prediction-System](https://github.com/Asongwelewis/AI-Driven-Power-Outage-Prediction-System)
 
-### 🧩 [Skill-Bridge](https://github.com/Asongwelewis/Skill-Bridge)
-A cloud-native peer-to-peer learning platform where users list skills they can teach and learn, get matched with complementary peers, meet in live WebRTC sessions, and complete AI-generated quizzes after sessions.
+A data science + full-stack project focused on predicting power outages in Cameroon by aggregating heterogeneous signals.  
+The system combines data ingestion, predictive modeling, and a web-facing layer for presenting insights that can support proactive outage planning.
 
-**Verified Stack:** `React` · `Vite` · `Node.js` · `Express` · `Supabase` · `PostgreSQL` · `Redis` · `Kafka` · `Elasticsearch` · `Groq API` · `Llama 3.3 70B` · `Kubernetes/K3s` · `Traefik` · `Docker` · `Jenkins` · `Terraform` · `Ansible` · `Prometheus` · `Grafana` · `WebRTC`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ [AI-Driven Power Outage Prediction System](https://github.com/Asongwelewis/AI-Driven-Power-Outage-Prediction-System)
-A Cameroon-focused power-outage prediction and monitoring system that aggregates outage-related signals, uses Gemini-based classification and risk scoring, and presents results in a dashboard with monitoring and failover-oriented workflows.
-
-**Verified Stack:** `Python` · `JavaScript` · `FastAPI` · `Node.js` · `Express` · `Google Gemini` · `google-genai` · `Supabase` · `PostgreSQL` · `Cloudflare R2` · `Socket.IO` · `Requests` · `Uvicorn` · `Pytest`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 💻 [Virtual-Machine-and-CLoud-simulation-system-](https://github.com/Asongwelewis/Virtual-Machine-and-CLoud-simulation-system-)
-A Python-based distributed VM simulation with a central controller and three VM nodes for file upload/download, replication, heartbeat monitoring, and basic failover handling.
-
-**Verified Stack:** `Python 3.7+` · `TCP sockets` · `JSON messaging` · `threading` · `colorama` · `Windows batch scripts`
-
-</td>
-</tr>
-</table>
+**Tech profile (from repo composition):** JavaScript, Python, CSS, EJS, Jupyter Notebook, Shell.
 
 ---
 
-## 🌍 Current Focus
+### 2) Skill-Bridge
+**Repository:** [Asongwelewis/Skill-Bridge](https://github.com/Asongwelewis/Skill-Bridge)
 
-- Distributed systems and cloud simulation projects
-- AI-assisted learning and prediction systems
-- Building practical software with measurable value
+A peer-to-peer learning platform where users post skills they want to teach or learn, and the system matches them automatically.  
+It supports live video sessions (WebRTC), session recording/transcription/search, and AI-generated quizzes to assess comprehension and award reputation badges.
+
+**Tech profile (from repo composition):** HTML, JavaScript, CSS.
+
+---
+
+### 3) Virtual Machine & Cloud Simulation System
+**Repository:** [Asongwelewis/Virtual-Machine-and-CLoud-simulation-system-](https://github.com/Asongwelewis/Virtual-Machine-and-CLoud-simulation-system-)
+
+A terminal-based simulation environment for file transfer workflows (upload/download) across virtual-machine-like components.  
+The project emphasizes systems concepts including gRPC communication, multithreading, and multiprocessing behavior.
+
+**Tech profile (from repo composition):** Python, Batchfile.
+
+---
+
+## 📊 GitHub Activity (Live)
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Asongwelewis&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asongwelewis&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Asongwelewis&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asongwelewis&theme=tokyonight" alt="Profile summary card" />
+</p>
+
+---
+
+## 🧰 Core Toolbox
+
+- **Frontend:** HTML, CSS, JavaScript, EJS
+- **Backend & Systems:** Python, JavaScript, gRPC, multiprocessing/multithreading patterns
+- **AI/Data:** Data processing, model experimentation, notebook-driven analysis
+- **Collaboration:** GitHub workflows, iterative delivery, Scrum-oriented execution
 
 ---
 
 ## 🤝 Let’s Connect
 
-<div align="center">
+- GitHub: [@Asongwelewis](https://github.com/Asongwelewis)
 
-<a href="mailto:fonasongwelewis@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-<a href="https://github.com/Asongwelewis"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-
-<br/>
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Asongwelewis&color=F58220&style=flat-square&label=Profile+Views)
-
-</div>
-
-<div align="center">
-
-*Built with care from Yaoundé, Cameroon 🇨🇲*
-
-</div>
+> Open to collaborations on AI-for-good, full-stack platforms, and systems simulation projects.
