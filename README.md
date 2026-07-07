@@ -5,8 +5,28 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1F6FEB&width=800&lines=I+build+AI-powered+and+full-stack+products;Data-driven+systems+for+real-world+problems;Always+learning%2C+shipping%2C+and+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1F6FEB&width=800&lines=I+build+AI-powered+and+full-stack+products;Data-driven+systems+for+real-world+impact;Systems+thinking+%2B+practical+execution" alt="Typing intro" />
 </p>
+
+---
+
+## 🧰 Full Tech Stack
+
+<p align="left">
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="38" height="38"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="38" height="38"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38"/></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="38" height="38"/></a>
+  <a href="https://ejs.co/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373574/ejs.svg" alt="EJS" width="38" height="38"/></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="38" height="38"/></a>
+  <a href="https://grpc.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="gRPC" width="38" height="38"/></a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="38" height="38"/></a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="38" height="38"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="38" height="38"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="38" height="38"/></a>
+</p>
+
+**From your repositories:** HTML, CSS, JavaScript, Python, EJS, Jupyter Notebook, gRPC, Dart/Flutter, Shell/Batch scripting, Git/GitHub workflows.
 
 ---
 
@@ -42,6 +62,15 @@ The project emphasizes systems concepts including gRPC communication, multithrea
 
 ---
 
+## 🌐 Project Links
+
+- **GitHub Profile Site / Portfolio:** [Asongwelewis.github.io](https://asongwelewis.github.io/) *(from `Asongwelewis/Asongwelewis.github.io`)*
+- **Skill-Bridge Repository:** [View Project](https://github.com/Asongwelewis/Skill-Bridge)
+- **Power Outage Prediction Repository:** [View Project](https://github.com/Asongwelewis/AI-Driven-Power-Outage-Prediction-System)
+- **VM & Cloud Simulation Repository:** [View Project](https://github.com/Asongwelewis/Virtual-Machine-and-CLoud-simulation-system-)
+
+---
+
 ## 📊 GitHub Activity (Live)
 
 <p align="left">
@@ -56,15 +85,6 @@ The project emphasizes systems concepts including gRPC communication, multithrea
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asongwelewis&theme=tokyonight" alt="Profile summary card" />
 </p>
-
----
-
-## 🧰 Core Toolbox
-
-- **Frontend:** HTML, CSS, JavaScript, EJS
-- **Backend & Systems:** Python, JavaScript, gRPC, multiprocessing/multithreading patterns
-- **AI/Data:** Data processing, model experimentation, notebook-driven analysis
-- **Collaboration:** GitHub workflows, iterative delivery, Scrum-oriented execution
 
 ---
 
